@@ -10,7 +10,7 @@
 
 Rubert is a spider inspired walking robot I built as part of the WOOF3D bio inspired robotics project at UW. The goal was a Jansen linkage leg mechanism that actually walks: one servo per leg, two degrees of freedom per leg output, and a gait pattern that looks like something alive rather than something shuffling.
 
-I named it Rubert. The club tracker says "Master the Jansen Linkage. Get this thing walking." — so that's what this is.
+I named it Rubert because I like it and the main goal was to master the jansen linkage and get this thing walking, so that's what this is.
 
 This repo documents the process: the CAD, the Python simulation I used to verify link geometry before printing, the print failures, and what finally worked. It's also a record of a project that's still going. The leg walks. The full robot gait is a work in progress.
 
